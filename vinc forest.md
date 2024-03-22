@@ -12,5 +12,8 @@ for a medium or large wooden structure it is the same but with a -1(medium) and 
 STONE BUILDINGS 
 ---
 you need 3 gunpower in your inventory per 20sq ft 
-1 d20 
+1d20 Wis 1 is fail loose gunpowder 2-10 minor damage 11-19 remove 1 wall 20 is collapsing of the building 
 
+|     |     |
+| --- | --- |
+|     |     |
