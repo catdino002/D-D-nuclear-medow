@@ -47,8 +47,12 @@
             "id": "1e87c80c274100f4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "vinc forest.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "vinc forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "vinc forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "vinc forest.md"
+              }
             }
           },
           {
@@ -234,9 +242,9 @@
   },
   "active": "1e87c80c274100f4",
   "lastOpenFiles": [
+    "player vew for the gremlins to ponder.md",
     "Max cavern.md",
     "guys we need a name.md",
-    "player vew for the gremlins to ponder.md",
     "vinc forest.md",
     "repository",
     "hi-max",
