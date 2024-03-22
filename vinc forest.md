@@ -3,8 +3,10 @@ the forest will listen to the spear wielders evory command as long as it sees th
 GAMEPLAY
 ---
 3d6+2 for regrowing the forest 
+
+BUILDING DES
 1d20 Int for disassembling a wooden small building loose 1 destruction charge   (1-6 is fail 7-12 is small damage 13-18 is little damage 19 is a wall falling down 20 is total collapse of building )
-for a medium or large wooden struc 
+for a medium or large wooden structure it is the same but with a -1(medium) and -3 (large) if plus to Int just subtract the modifier by your bonus  
 
 
 
