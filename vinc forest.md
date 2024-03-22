@@ -13,10 +13,14 @@ STONE BUILDINGS
 ---
 you need 3 gunpower in your inventory per 20sq ft 
 
-| 1d20 | Wis                              |
-| ---- | -------------------------------- |
-| 1    | remove gunpowder nothing happens |
-| 2-10 | minor damage EX:                 |
+| 1d20   | Wis                                      |
+| ------ | ---------------------------------------- |
+| 1      | remove gunpowder nothing happens         |
+| 2-10   | minor damage EX:1sq ft crack in the wall |
+| 11-15  | hole big enough for party to go through  |
+| 15-19  | no more wall                             |
+| 20     | save 50% gunpowder + same as 15-19       |
+| nat 20 |                                          |
 
 
 
