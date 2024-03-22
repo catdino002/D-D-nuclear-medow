@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guys we need a name.md",
+                "file": "player vew for the gremlins to ponder.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guys we need a name.md",
+                "file": "player vew for the gremlins to ponder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "guys we need a name.md",
+                "file": "player vew for the gremlins to ponder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "guys we need a name.md"
+                "file": "player vew for the gremlins to ponder.md"
               }
             }
           },
@@ -225,9 +225,9 @@
   "active": "677d3a6bc57f0603",
   "lastOpenFiles": [
     "Max cavern.md",
+    "guys we need a name.md",
     "repository",
     "hi-max",
-    "guys we need a name.md",
     "player vew for the gremlins to ponder.md",
     "Untitled.canvas"
   ]
