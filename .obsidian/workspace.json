@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vinc forest.md",
+                "file": "Max cavern.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vinc forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vinc forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "vinc forest.md"
-              }
+              "state": {}
             }
           },
           {
@@ -236,12 +232,12 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "23ddc83b01138fde",
+  "active": "1e87c80c274100f4",
   "lastOpenFiles": [
-    "player vew for the gremlins to ponder.md",
-    "vinc forest.md",
     "Max cavern.md",
     "guys we need a name.md",
+    "player vew for the gremlins to ponder.md",
+    "vinc forest.md",
     "repository",
     "hi-max",
     "Untitled.canvas"
