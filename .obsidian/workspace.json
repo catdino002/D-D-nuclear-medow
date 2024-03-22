@@ -161,9 +161,17 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "b4dd2c32ed3a7baf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       },
       {
         "id": "6348bcb001576fae",
@@ -211,7 +219,7 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "3d1c65ddf2fc15d1",
+  "active": "9836121b047efe29",
   "lastOpenFiles": [
     "repository",
     "hi-max",
