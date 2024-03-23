@@ -1,8 +1,13 @@
+---
+tags:
+  - PW
+---
 a small forest of about 2km that once housed a sacred spear no map as it is mostly unexplored
 the forest will listen to the spear wielders every command as long as it sees the wielder worthy 
-GAMEPLAY
+GAMEPLAY for weaponry found here 
 ---
 3d6+2 for regrowing the forest 
+gain charges by milling dried horse blood with 10 different dried flowers and cast depth touch on dust to gain 10 charges 
 
 BUILDING DESTRUCTION 
 ---
@@ -33,5 +38,28 @@ you need 3 gunpower in your inventory per 20sq ft
 | 20     | save 50% gunpowder + same as 15-19       |
 | nat 20 | building colapse                         |
 
+knowledge burn 
+---
+remove the knowledge of innovation 
+10ft sphere on selected targets
+does not change your modifiers 
 
+| 1d6 | Int                        |
+| --- | -------------------------- |
+| 1   | nothing happens            |
+| 2-3 | opposite your Int modifier |
+| 4   | your -Int -1               |
+| 5   | your -Int -2               |
+| 6   | your -best stat -1         |
+|     |                            |
+Incite Revolution 
+---
+incite revolution takes 3 charges can only do 1 time per long rest 
+the DM will roll 1d4 if they meet or exceed your roll revolution fails
 
+| 1d4 | Cha                                            |
+| --- | ---------------------------------------------- |
+| 1   | get marked as crazy                            |
+| 2   | give 1 person an idea of revolt                |
+| 3   | make every one in 20 feet think of revolting   |
+| 4+  | make the closest 200 people start a revolution |
