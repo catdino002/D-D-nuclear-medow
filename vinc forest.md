@@ -4,6 +4,8 @@ tags:
 ---
 a small forest of about 2km that once housed a sacred spear no map as it is mostly unexplored
 the forest will listen to the spear wielders every command as long as it sees the wielder worthy 
+![](https://i.imgur.com/g1Ikiae.png)
+
 GAMEPLAY for weaponry found here 
 ---
 3d6+2 for regrowing the forest 

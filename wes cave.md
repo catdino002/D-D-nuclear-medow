@@ -45,3 +45,6 @@ leave a cup in the rain for 3 min than move water to a jar fill with sand heat u
 take a torch and spin it to a fiery storm of doom 
 Cost: 1 torch 1 charge 
 shoot a  30ft line IN front of you that sucks in enemy's within 10 Ft and burns enemy's on the line for 1d6+1 fire damage 
+
+### storm the capitol
+when you are in a group of 20 or more and attacking acapotal citty 
