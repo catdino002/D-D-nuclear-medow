@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wes cave.md",
+                "file": "vinc forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wes cave.md",
+                "file": "vinc forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wes cave.md"
+                "file": "vinc forest.md"
               }
             }
           },
@@ -252,12 +252,12 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "3d1c65ddf2fc15d1",
+  "active": "1e87c80c274100f4",
   "lastOpenFiles": [
+    "wes cave.md",
     "player vew for the gremlins to ponder.md",
     "Max cavern.md",
     "guys we need a name.md",
-    "wes cave.md",
     "vinc forest.md",
     "repository",
     "hi-max",
