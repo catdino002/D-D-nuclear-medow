@@ -4,7 +4,7 @@ tags:
 ---
 a small forest of about 2km that once housed a sacred spear no map as it is mostly unexplored
 the forest will listen to the spear wielders every command as long as it sees the wielder worthy 
-(after sertan events a small town of kobolds have mooved in)
+(after events a small town of kobolds have moved into the forest)
 ![](https://i.imgur.com/g1Ikiae.png)
 
 GAMEPLAY for weaponry found here 
