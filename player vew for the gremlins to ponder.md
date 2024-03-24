@@ -9,5 +9,5 @@ landing page for players anything linked to this page you can look at MAX.
 MAX IS SILLY 😋 
 [[guys we need a name]]info about your town 
 [[vinc forest]] vincs forest abode
-___ weslys cave 
+  [[wes cave]] weslys cave 
 [[Max cavern]] max ossuary 
