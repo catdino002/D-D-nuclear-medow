@@ -5,8 +5,8 @@ tags:
 a cavern housing a mineshaft and an old ossuary 
 ![](https://i.imgur.com/SmfIL9i.png)
 below the waters is a bonny mansion expansive and mysterious 
-GAMEPLAY for weaponry found here 
----
+## GAMEPLAY for weaponry found here 
+
 raise the forgotten 
 ---
 1 time per long rest you can raise body's from 100+ years ago as long as they are forgotten 
