@@ -95,6 +95,10 @@ dual shock
 ---
 give all allies excludeing yourself  
 
-| 1d4 |     |
-| --- | --- |
-|     |     |
+| 1d6 | int                        |
+| --- | -------------------------- |
+|     | nothing happens            |
+|     | opposite your Int modifier |
+|     | your -Int -1               |
+|     | your Str -2                |
+|     | your best stat +1          |
