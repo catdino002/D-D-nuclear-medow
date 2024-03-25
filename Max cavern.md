@@ -39,4 +39,9 @@ PARRY
 ---
 yell parry once per long rest the second the DM makes an attack roll 1d20 DM rolls too if player rolls higher than the DM a magic field deflects attack back into enemy   
 ### how to get charges 
-make 
+In a saucepan over medium heat, cook beef until no longer pink, 3-5 minutes, breaking into crumbles; drain. than add - 2 cups water
+-  stewed tomatoes
+- vegetables
+- - 1 can (8 ounces) tomato sauce
+- 1 envelope onion soup mix
+- 1/2 teaspoon sugar; bring to a boil. Reduce heat; cover and simmer until vegetables are tender, 10-15 minutes
