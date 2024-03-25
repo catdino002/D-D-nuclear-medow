@@ -105,4 +105,4 @@ give all allies excludeing yourself
 
 CHEESE
 ---
-summon a rock 1hat deals 1d4-8 str damage
+summon a rock 1hat deals 1d4-8 str damage does not heal party members or allies 
