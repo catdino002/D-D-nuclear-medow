@@ -9,7 +9,7 @@ the forest will listen to the spear wielders every command as long as it sees th
 
 GAMEPLAY for weaponry found here 
 ---
-3d6+2 for regrowing the forest 
+3d6+2 int for regrowing the forest 
 gain charges by milling dried horse blood with 10 different dried flowers and cast light the dust on fire to gain 10 charges 
 
 BUILDING DESTRUCTION 
@@ -70,11 +70,11 @@ the DM will roll 1d4 if they meet or exceed your roll revolution fails
 INATORATOR
 ---
 give any object you can see and lift by yourself a self destruct button 
-when button is pressed it deals 1d6+ how many 5ft squires it occupies (req 1 oz of gunnpowder red dye and 1 button )
+when button is pressed it deals 1d6+ how many 5ft squires it occupies (req 1 oz of gunpower red dye and 1 button )
 
 ### RATICALIZE 
 cast upon a town to give the population a "correct"  opinion 
-roll 1d4 if 4 targeted town is now racist against chosen race 
+roll 1d4-1 cha if 4 targeted town is now racist against chosen race 
 
 ### BOLT 
 summon a chaotic evil bunny with a magic staff you now control the bunny 
@@ -105,4 +105,4 @@ give all allies excludeing yourself
 
 CHEESE
 ---
-summon a rock 
+summon a rock 1hat deals 1d4-8 str damage
