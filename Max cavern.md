@@ -47,7 +47,12 @@ In a saucepan over medium heat, cook beef until no longer pink, 3-5 minutes, bre
 - 1/2 teaspoon sugar; bring to a boil. Reduce heat; cover and simmer until vegetables are tender, 10-15 minutes 
 -when completed gain 5 charges and 6 days rations 
 
-TWIDDLEING BONES 
+Tinkering BONES 
 ---
-enhance any cannon to fire explosives  
+enhance any cannon to fire and enhance potions by +1
 takes 1 charge 
+or enhance canon for 2 charges to fire tinny - medium creatures 
+
+BONE ZONE
+---
+create a bone wall 
