@@ -55,3 +55,7 @@ move an object 20ft uses 1 charge
 
 bolt summon a wind pipe that accelerates any object smaller than 12 inches 20 feet 
 if object makes contact to a living thing do 1d4 damage
+
+ahh
+---
+causes 1 target to be stuck in place 1 foot off the ground for 4 seconds
