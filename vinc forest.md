@@ -87,4 +87,5 @@ bunny can have inatorator cast upon it
 bunny costs 1 charge to spawn and takes 1 full action
 bunny explodes after 1hr dealing its health to any creature within 5 ft
 bunny retains memories 
-bunny 
+bunny can steal and use 1 spell that the enemy has for 4 charges \
+bunny wont explode if heald by a kobald orphan less than 5ft tall nmed tuberd
