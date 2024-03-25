@@ -53,5 +53,5 @@ wind
 ---
 move an object 20ft uses 1 charge
 
-bolt summon awind pipe that acselerates any object smaller than 12 inches 20 feet 
-if object makes contact 
+bolt summon a wind pipe that accelerates any object smaller than 12 inches 20 feet 
+if object makes contact to a living thing do 1d4 damage

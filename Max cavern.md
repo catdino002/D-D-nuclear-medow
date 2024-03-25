@@ -46,3 +46,8 @@ In a saucepan over medium heat, cook beef until no longer pink, 3-5 minutes, bre
 - 1 onion 
 - 1/2 teaspoon sugar; bring to a boil. Reduce heat; cover and simmer until vegetables are tender, 10-15 minutes 
 -when completed gain 5 charges and 6 days rations 
+
+TWIDDLEING BONES 
+---
+enhance any cannon to fire explosives  
+takes 1 charge 
