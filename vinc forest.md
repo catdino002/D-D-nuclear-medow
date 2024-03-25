@@ -66,3 +66,4 @@ the DM will roll 1d4 if they meet or exceed your roll revolution fails
 | 2   | give 1 person an idea of revolt                |
 | 3   | make every one in 20 feet think of revolting   |
 | 4+  | make the closest 200 people start a revolution |
+
