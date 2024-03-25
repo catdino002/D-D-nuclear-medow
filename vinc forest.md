@@ -94,3 +94,7 @@ bunny wont explode if healed by a kobold orphan less than 5ft tall named tuberd
 dual shock
 ---
 give all allies excludeing yourself  
+
+| 1d4 |     |
+| --- | --- |
+|     |     |
