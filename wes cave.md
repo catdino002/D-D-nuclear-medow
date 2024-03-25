@@ -51,4 +51,7 @@ when you are in a group of 20 or more and attacking a capital city +2 to all all
 
 wind 
 ---
-move ane 
+move an object 20ft uses 1 charge
+
+bolt summon awind pipe that acselerates any object smaller than 12 inches 20 feet 
+if object makes contact 
