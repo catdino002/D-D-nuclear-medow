@@ -38,3 +38,5 @@ allows caster to lift an object 2 people would typically need to carry for 1 hr.
 PARRY
 ---
 yell parry once per long rest the second the DM makes an attack roll 1d20 DM rolls too if player rolls higher than the DM a magic field deflects attack back into enemy   
+### how to get charges 
+make 
