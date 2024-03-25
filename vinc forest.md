@@ -10,7 +10,7 @@ the forest will listen to the spear wielders every command as long as it sees th
 GAMEPLAY for weaponry found here 
 ---
 3d6+2 for regrowing the forest 
-gain charges by milling dried horse blood with 10 different dried flowers and cast depth touch on dust to gain 10 charges 
+gain charges by milling dried horse blood with 10 different dried flowers and cast light the dust on fire to gain 10 charges 
 
 BUILDING DESTRUCTION 
 ---
@@ -71,3 +71,6 @@ INATORATOR
 ---
 give any object you can see and lift by yourself a self destruct button 
 when button is pressed it deals 1d6+ how many 5ft squires it occupies (req 1 oz of gunnpowder red dye and 1 button )
+
+### RATICALIZE 
+cast apo
