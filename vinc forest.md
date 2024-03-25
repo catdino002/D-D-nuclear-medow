@@ -84,3 +84,7 @@ bunny has 45 movement speed
 when bunny attacks it takes 1 charge per bunny 
 multiple bunny can be spawned
 bunny can have inatorator cast upon it
+bunny costs 1 charge to spawn and takes 1 full action
+bunny explodes after 1hr dealing its health to any creature within 5 ft
+bunny retains memories 
+bunny 
