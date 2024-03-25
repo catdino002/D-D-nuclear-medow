@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "player vew for the gremlins to ponder.md",
+                "file": "guys look in here not other areas pls/player vew for the gremlins to ponder.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "player vew for the gremlins to ponder.md",
+                "file": "guys look in here not other areas pls/player vew for the gremlins to ponder.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vinc forest.md",
+                "file": "guys look in here not other areas pls/vinc forest.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wes cave.md",
+                "file": "guys look in here not other areas pls/wes cave.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "145663ab2ecc92d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bbeg super secret.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wes cave.md",
+                "file": "guys look in here not other areas pls/wes cave.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wes cave.md",
+                "file": "bbeg super secret.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wes cave.md",
+                "file": "bbeg super secret.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wes cave.md"
+                "file": "bbeg super secret.md"
               }
             }
           },
@@ -252,13 +264,17 @@
       "wikipedia-search:Open Article": false
     }
   },
-  "active": "1e87c80c274100f4",
+  "active": "145663ab2ecc92d2",
   "lastOpenFiles": [
-    "vinc forest.md",
-    "guys we need a name.md",
-    "Max cavern.md",
-    "wes cave.md",
-    "player vew for the gremlins to ponder.md",
+    "guys look in here not other areas pls/wes cave.md",
+    "bbeg super secret.md",
+    "dm notes",
+    "no look",
+    "guys look in here not other areas pls",
+    "guys look in here not other areas pls/vinc forest.md",
+    "guys look in here not other areas pls/guys we need a name.md",
+    "guys look in here not other areas pls/Max cavern.md",
+    "guys look in here not other areas pls/player vew for the gremlins to ponder.md",
     "repository",
     "hi-max",
     "Untitled.canvas"
