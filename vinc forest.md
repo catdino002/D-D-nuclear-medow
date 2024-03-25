@@ -73,7 +73,11 @@ give any object you can see and lift by yourself a self destruct button
 when button is pressed it deals 1d6+ how many 5ft squires it occupies (req 1 oz of gunnpowder red dye and 1 button )
 
 ### RATICALIZE 
-cast apon a town to give the population a "corect"  opinion 
+cast upon a town to give the population a "correct"  opinion 
 
 ### BOLT 
-summon a chaotic evil bunny you no
+summon a chaotic evil bunny with a magic staff you now control the bunny 
+bunny knows the spell fire bolt 
+bunny has -1 to all stats
+bunny has 1d4 HP
+bunny has 45 movment s
