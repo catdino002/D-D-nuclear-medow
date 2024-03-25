@@ -55,4 +55,5 @@ or enhance canon for 2 charges to fire tinny - medium creatures
 
 BONE ZONE
 ---
-create a bone wall 5ft tall and 20ft wide
+create a bone wall 5ft tall and 20ft wide goes away after 1hr takes 1 charge to
+summon

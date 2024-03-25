@@ -90,3 +90,7 @@ bunny explodes after 1hr dealing its health to any creature within 5 ft
 bunny retains memories 
 bunny can steal and use 1 spell that the enemy has for 4 charges \
 bunny wont explode if healed by a kobold orphan less than 5ft tall named tuberd
+
+dual shock
+---
+give all allies excludeing yourself  
