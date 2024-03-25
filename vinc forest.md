@@ -67,3 +67,6 @@ the DM will roll 1d4 if they meet or exceed your roll revolution fails
 | 3   | make every one in 20 feet think of revolting   |
 | 4+  | make the closest 200 people start a revolution |
 
+INATORATOR
+---
+give any object you can see a self destruct 
