@@ -1,0 +1,1 @@
+upgrades should add 1 thing to a wepon 
