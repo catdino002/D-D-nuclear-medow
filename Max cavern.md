@@ -9,7 +9,7 @@ below the waters is a bonny mansion expansive and mysterious
 
 raise the forgotten 
 ---
-1 time per long rest you can raise body's from 100+ years ago as long as they are forgotten 
+1 time per long rest you can raise body's from 100+ years ago or long as they are forgotten 
 
 advancement 
 ---
