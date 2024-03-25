@@ -69,4 +69,5 @@ the DM will roll 1d4 if they meet or exceed your roll revolution fails
 
 INATORATOR
 ---
-give any object you can see a self destruct 
+give any object you can see and lift by yourself a self destruct button 
+when button is pressed it deals 1d6+ how many 5ft squires it occupies (req 1 oz of g )
