@@ -97,8 +97,12 @@ give all allies excludeing yourself
 
 | 1d6 | int                        |
 | --- | -------------------------- |
-|     | nothing happens            |
-|     | opposite your Int modifier |
-|     | your -Int -1               |
-|     | your Str -2                |
-|     | your best stat +1          |
+| 1   | nothing happens            |
+| 2-3 | opposite your STR modifier |
+| 4   | your Str +1                |
+| 5   | your Str +2                |
+| 6   | your best stat +1          |
+
+CHEESE
+---
+summon a rock 
