@@ -80,4 +80,7 @@ summon a chaotic evil bunny with a magic staff you now control the bunny
 bunny knows the spell fire bolt 
 bunny has -1 to all stats
 bunny has 1d4 HP
-bunny has 45 movment s
+bunny has 45 movement speed
+when bunny attacks it takes 1 charge per bunny 
+multiple bunny can be spawned
+bunny can have inatorator cast upon it
