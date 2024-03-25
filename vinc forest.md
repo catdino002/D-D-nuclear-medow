@@ -74,6 +74,7 @@ when button is pressed it deals 1d6+ how many 5ft squires it occupies (req 1 oz 
 
 ### RATICALIZE 
 cast upon a town to give the population a "correct"  opinion 
+roll 1d4 if 4 targeted town is now racist against chosen race 
 
 ### BOLT 
 summon a chaotic evil bunny with a magic staff you now control the bunny 
@@ -88,4 +89,4 @@ bunny costs 1 charge to spawn and takes 1 full action
 bunny explodes after 1hr dealing its health to any creature within 5 ft
 bunny retains memories 
 bunny can steal and use 1 spell that the enemy has for 4 charges \
-bunny wont explode if heald by a kobald orphan less than 5ft tall nmed tuberd
+bunny wont explode if healed by a kobold orphan less than 5ft tall named tuberd
